@@ -3,5 +3,5 @@ var movie = 136;
 
 var remainder = movie % twoHour;
 
-console.log(remainder);
+console.log("Minutes past 2nd hour:" + remainder + "mins");
 
