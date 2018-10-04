@@ -12,4 +12,4 @@ var finalPay = firstHalf + secondHalf
 
 
 
-console.log("I will raise $" + finalPay + " for charity this year!")
+console.log("I will raise $" + finalPay + " for charity this year!");
